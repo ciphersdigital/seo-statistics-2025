@@ -10,7 +10,7 @@ This project is a live, data-driven resource maintained by [Ciphers Digital Mark
 - Monthly updates from top SEO tools (Ahrefs, Moz, Semrush)
 
 ## 📈 Live Page
-View the live GitHub Page: [Coming Soon]
+View the live GitHub Page: [See SEO Statistics for 2025](https://ciphersdigital.github.io/seo-statistics-2025/)
 
 ## 📬 Contact
 Want to suggest stats or partner with us?  
